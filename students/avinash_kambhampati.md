@@ -1,4 +1,4 @@
-# 👨‍💻 Student Profile: [Your Full Name]
+# 👨‍💻 Student Profile: [Avinash Kambhampti]
 ---
 ## 📌 Personal & Contact Details
 * **Full Name:** [Avinash Kambhampti]
